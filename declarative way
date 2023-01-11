@@ -4,7 +4,7 @@ agent any
 
 tools{
 //Global Tool Configuration
-maven 'maven 3.8.6'
+maven 'Maven3.8.6'
 }
 
 stages {
